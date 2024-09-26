@@ -1,4 +1,4 @@
-# meta developer: @zxmentos, @Fajox1
+# meta developer: @zxmentos, @vecax
 import sys
 import traceback
 import html
