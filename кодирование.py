@@ -1,4 +1,4 @@
-
+# meta developer: @ZxMentosModules, @FAmods
 
 import sys
 import traceback
@@ -19,10 +19,10 @@ logger = logging.getLogger(__name__)
 
 @loader.tds
 class Executor(loader.Module):
-    """Выᴨᴏᴧнᴇниᴇ Pyᴛhᴏn ᴋᴏдᴀ от @ZxMentosModules (обновленая версия)"""
+    """Выᴨᴏᴧнᴇниᴇ Pyᴛhᴏn ᴋᴏдᴀ от @ZxMentosModules, @Famods (обновленая версия)"""
 
     strings = {
-        "name": "ᴇxᴇᴄᴜᴛᴏʀ ᴏᴛ @ZxMentosModules",
+        "name": "executor",
 
         "no_code": "<emoji document_id=5854929766146118183>❌</emoji> <b>дᴏᴧжнᴏ быᴛь </b><code>{}exec [python код]</code>",
 
