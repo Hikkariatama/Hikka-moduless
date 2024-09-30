@@ -1,4 +1,4 @@
-# meta developer: @ZxMentosModules,@vecax.
+
 
 import sys
 import traceback
