@@ -1,4 +1,4 @@
-# meta developer: Шрифт: @ZxMentosModules, @ZxMentos, Создатель самого модуля: @FAmods, @vecax.
+# meta developer: @ZxMentosModules,@vecax.
 
 import sys
 import traceback
