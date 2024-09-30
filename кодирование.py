@@ -1,4 +1,5 @@
-# meta developer: Шрифт: @ZxMentosModules,@zxmentos, Кто сделал сам модуль: @FAmods, @Vecax.
+# meta developer: Шрифт: @ZxMentosModules, @ZxMentos, Создатель самого модуля: @FAmods, @vecax.
+
 import sys
 import traceback
 import html
@@ -23,7 +24,7 @@ class Executor(loader.Module):
     strings = {
         "name": "ᴇxᴇᴄᴜᴛᴏʀ ᴏᴛ @zxmentos",
 
-        "no_code"emoji document_id=5854929766146118183>❌</emoji> <b>дᴏᴧжнᴏ быᴛь </b><code>{}exec [python код]</code>",
+        "no_code": "<emoji document_id=5854929766146118183>❌</emoji> <b>дᴏᴧжнᴏ быᴛь </b><code>{}exec [python код]</code>",
 
         "executing": "<b><emoji document_id=5332600281970517875>🔄</emoji> Выᴨᴏᴧняю ᴋᴏд...</b>"
     }
