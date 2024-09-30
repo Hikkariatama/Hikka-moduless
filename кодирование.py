@@ -19,10 +19,10 @@ logger = logging.getLogger(__name__)
 
 @loader.tds
 class Executor(loader.Module):
-    """Выᴨᴏᴧнᴇниᴇ Pyᴛhᴏn ᴋᴏдᴀ от @zxmentos (обновленая версия)"""
+    """Выᴨᴏᴧнᴇниᴇ Pyᴛhᴏn ᴋᴏдᴀ от @ZxMentosModules (обновленая версия)"""
 
     strings = {
-        "name": "ᴇxᴇᴄᴜᴛᴏʀ ᴏᴛ @zxmentos",
+        "name": "ᴇxᴇᴄᴜᴛᴏʀ ᴏᴛ @ZxMentosModules",
 
         "no_code": "<emoji document_id=5854929766146118183>❌</emoji> <b>дᴏᴧжнᴏ быᴛь </b><code>{}exec [python код]</code>",
 
